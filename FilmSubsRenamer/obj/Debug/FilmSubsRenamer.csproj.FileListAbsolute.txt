@@ -1,0 +1,29 @@
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.exe.config
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.csprojResolveAssemblyReference.cache
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.Properties.Resources.resources
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.csproj.GenerateResource.Cache
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.exe
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.pdb
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.exe
+c:\users\ale\documents\visual studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.pdb
+F:\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.exe.config
+F:\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.exe
+F:\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.pdb
+F:\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.exe
+F:\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.pdb
+F:\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.csprojResolveAssemblyReference.cache
+F:\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.Form1.resources
+F:\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.Properties.Resources.resources
+F:\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.csproj.GenerateResource.Cache
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.frmPreferenze.resources
+C:\Users\Ale\Documents\Visual Studio 2013\Projects\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.frmPrincipale.resources
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.exe.config
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.exe
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\bin\Debug\FilmSubsRenamer.pdb
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.csprojResolveAssemblyReference.cache
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.frmPreferenze.resources
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.frmPrincipale.resources
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.Properties.Resources.resources
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.csproj.GenerateResource.Cache
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.exe
+E:\Progetti2017\FilmSubsRenamer\FilmSubsRenamer\obj\Debug\FilmSubsRenamer.pdb

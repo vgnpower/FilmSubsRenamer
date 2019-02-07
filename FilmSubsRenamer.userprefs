@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="FilmSubsRenamer\FilmSubsRenamer.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FilmSubsRenamer\frmPrincipale.Designer.cs">
+    <Files>
+      <File FileName="FilmSubsRenamer\frmPreferenze.cs" Line="1" Column="1" />
+      <File FileName="FilmSubsRenamer\frmPrincipale.cs" Line="9" Column="46" />
+      <File FileName="FilmSubsRenamer\frmPrincipale.resx" Line="1" Column="1" />
+      <File FileName="FilmSubsRenamer\frmPrincipale.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
